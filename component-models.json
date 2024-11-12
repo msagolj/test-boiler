@@ -184,5 +184,17 @@
         "valueType": "string"
       }
     ]
+  },
+  {
+    "id": "pagepage-metadata",
+    "fields": [
+      {
+        "component": "text",
+        "name": "text",
+        "value": "",
+        "label": "Text",
+        "valueType": "string"
+      }
+    ]
   }
 ]
