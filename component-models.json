@@ -186,7 +186,7 @@
     ]
   },
   {
-    "id": "pagepage-metadata",
+    "id": "page-metadata",
     "fields": [
       {
         "component": "text",
