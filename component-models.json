@@ -190,9 +190,9 @@
     "fields": [
       {
         "component": "text",
-        "name": "text",
+        "name": "template",
         "value": "",
-        "label": "Text",
+        "label": "Template",
         "valueType": "string"
       }
     ]
